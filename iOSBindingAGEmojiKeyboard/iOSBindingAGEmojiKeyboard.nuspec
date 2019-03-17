@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Xamarin.iOS.EmojiKeyboard</id>
+    <version>1.0</version>
+    <title>Xam.iOS ayushgoelEmojiKeyboard</title>
+    <authors>Giuseppe Novielli, Ayush Goel</authors>
+    <owners>giuseppenovielli, ayushgoel</owners>
+    <projectUrl>https://github.com/giuseppenovielli/Xamarin.iOS-EmojKeyboard</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Xamarin.iOS Binding of AGEmojiKeyboard library https://github.com/ayushgoel/AGEmojiKeyboard by Giuseppe Novielli</description>
+    <releaseNotes>First Release</releaseNotes>
+    <copyright>Giuseppe Novielli Copyright 2019</copyright>
+    <tags>xamarin iOS emoji emojicon emojicon-keyboard emoji-keyboard emoji-key</tags>
+<license type="expression">MIT</license>
+	
+  </metadata>
+  
+   <files>
+        <!-- iOS reference assemblies -->
+        <file src="bin\Release\iOSBindingAGEmojiKeyboard.dll" target="lib\Xamarin.iOS\iOSBindingAGEmojiKeyboard.dll" />
+    </files>
+</package>

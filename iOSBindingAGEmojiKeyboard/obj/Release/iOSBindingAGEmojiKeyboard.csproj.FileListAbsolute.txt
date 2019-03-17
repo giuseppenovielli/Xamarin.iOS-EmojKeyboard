@@ -1,0 +1,4 @@
+/Users/hrcoffee2/Xamarin_hrcoffee/appHRcoffee/iOSBindingAGEmojiKeyboard/bin/Release/iOSBindingAGEmojiKeyboard.dll
+/Users/hrcoffee2/Xamarin_hrcoffee/appHRcoffee/iOSBindingAGEmojiKeyboard/obj/Release/iOSBindingAGEmojiKeyboard.csprojAssemblyReference.cache
+/Users/hrcoffee2/Xamarin_hrcoffee/appHRcoffee/iOSBindingAGEmojiKeyboard/obj/Release/iOSBindingAGEmojiKeyboard.csproj.CoreCompileInputs.cache
+/Users/hrcoffee2/Xamarin_hrcoffee/appHRcoffee/iOSBindingAGEmojiKeyboard/obj/Release/iOSBindingAGEmojiKeyboard.dll
